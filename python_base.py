@@ -36,3 +36,4 @@ print(f"Speed improvement: {time_normal/time_optimal:.2f}x faster" if time_optim
 print()
 
 print('hello world ...')
+print('hello developers ...')
