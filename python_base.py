@@ -35,4 +35,4 @@ print(f"Optimal way time: {time_optimal:.8f} seconds")
 print(f"Speed improvement: {time_normal/time_optimal:.2f}x faster" if time_optimal > 0 else "Speed improvement: N/A")
 print()
 
-print('hello world')
+print('hello world ...')
